@@ -1,3 +1,9 @@
++++
+title = "वेदिः"
+unicode_script = "devanagari"
++++
+
+
 पशुबन्धविहारः
 
 सोमयागविहारः
