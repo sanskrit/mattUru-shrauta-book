@@ -3,7 +3,7 @@ title = "० प्रकाशन-विवरणनानि"
 unicode_script = "devanagari"
 +++
 
-
+## परिचयः
 आपस्तम्बीय श्रौतप्रयोगः
 
 (अग्न्याधानप्रभृति अग्निष्टोमपर्यन्तः)
@@ -48,19 +48,11 @@ Price Rs - 400/=
 
 Printed at :
 
-Aditya Printers
-
-# 1. Sri Ramanjaneya Road
-
+Aditya Printers  
+\#1. Sri Ramanjaneya Road  
 Hanumanthanagar, Bangalore - 560019
 
-Phone : 26606776 / 32006630 Fax : 2660 6566
-
-E-mail : prakash@adityapranters.com
-
-website : www. adityaprinters. com
-
-॥ ग्रन्थविभागानुक्रमः ॥
+## ग्रन्थविभागानुक्रमः
 
 प्रकाशकस्य विज्ञप्तिः (आङ्ग्ली)
 
