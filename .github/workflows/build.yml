@@ -23,6 +23,7 @@ jobs:
         submodules: false
         # Setting true above seems to lead to submodule updation problems.
         fetch-depth: 1
+        format: 'csv'
     - name: Get changed files
       id: changed-files
       uses: jitterbit/get-changed-files@v1
