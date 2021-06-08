@@ -1,0 +1,20 @@
+baseURL = "https://sanskrit.github.io/mattUru-shrauta-book/"
+languageCode = "en-us"
+title = "मत्तूरु-श्रौत-ग्रन्थः"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+disablePathToLower = true
+
+[params]
+  githubEditMePathBase = "https://github.com/sanskrit/mattUru-shrauta-book/edit/content/"
+  contactLink = "https://github.com/sanskrit/mattUru-shrauta-book/issues/new"
+  fullSearchURL = "/full_search"
+  env = "production"  
+  disqusShortcode = "sanskrit-site"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "CSV"]
+  section = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe= true
