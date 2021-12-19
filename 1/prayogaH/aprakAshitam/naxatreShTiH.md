@@ -1,6 +1,7 @@
 +++
 title = "नक्षत्रेष्टिप्रयोगः"
 unicode_script = "devanagari"
+
 +++
 
 

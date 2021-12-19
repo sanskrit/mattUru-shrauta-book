@@ -1,6 +1,7 @@
 +++
 title = "वाजपेयप्रयोगः"
 unicode_script = "devanagari"
+
 +++
 
 अथ वाजपेयप्रयोगः
