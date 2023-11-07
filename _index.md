@@ -3,6 +3,4 @@ title = "+मत्तूरु-श्रौत-ग्रन्थः"
 unicode_script = "devanagari"
 +++
 
-## अवशिष्टं कार्यम्
-- प्रथमभागे चित्राणाम् पादट्टिप्पणीनां च योजनम्।
-- द्वितीयभागे चित्रयोजनम्।
+[अन्यत्रेक्षताम्](http://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/paddhatiH/mattUrutaH/) । 
